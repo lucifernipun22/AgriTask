@@ -152,6 +152,11 @@ class AddContactFragment : DaggerFragment() {
                 .show()
             return false
         }
+        if(profilePicturePath.isNullOrEmpty()){
+            Toast.makeText(requireContext(), "Please Select you Profile Picture", Toast.LENGTH_SHORT)
+                .show()
+            return false
+        }
         return true
 
 
