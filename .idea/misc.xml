@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/hacke/Downloads/Contacts-Pro-Kotlin-master/Contacts-Pro-Kotlin-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2185" />
+        <entry key="..\:/Users/hacke/Downloads/Contacts-Pro-Kotlin-master/Contacts-Pro-Kotlin-master/app/src/main/res/drawable/splash_background.xml" value="0.124" />
         <entry key="..\:/Users/hacke/Downloads/Contacts-Pro-Kotlin-master/Contacts-Pro-Kotlin-master/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
         <entry key="..\:/Users/hacke/Downloads/Contacts-Pro-Kotlin-master/Contacts-Pro-Kotlin-master/app/src/main/res/layout/contact_details_data.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/hacke/Downloads/Contacts-Pro-Kotlin-master/Contacts-Pro-Kotlin-master/app/src/main/res/layout/fragment_add_contact.xml" value="0.25416666666666665" />
